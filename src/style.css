@@ -79,7 +79,7 @@ header {
       max-width: 80%;
       left: 50%;
       transform: translate(-50%, 0);
-      padding-right: 30%;
+      padding-right: 40%;
       text-shadow: 0 50px 10px #0004;
 
       & .author {
